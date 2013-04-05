@@ -6,4 +6,5 @@ function add( $a,$b){
  $c = $a + $b;
  return $c;
 }
+echo "this is another changes in file";
 ?>
